@@ -14,15 +14,15 @@ function NavBar({ currentUser, onLogout }) {
 			<div className='info_nav_1'>
 				<div>
 					<img src='https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/phone-24.png' alt='' />
-					<p>+21625274299</p>
+					<p>+216 58 018 596</p>
 				</div>
 				<div>
 					<img src='https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_location_on_48px-24.png' alt=''/>
-					<p>2130 Fulton Street, San Diego, CA 94117-1080 USA</p>
+					<p>Tunisie , Gabes /p>
 				</div>
 				<div>
 					<img src='https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/envelope-24.png' alt=''/>
-					<p>ahmed@gmail.com</p>
+					<p>chahintaherr@gmail.com</p>
 				</div>				
 			</div>		
 				
